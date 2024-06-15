@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jual Beli Ban Mobil</string>
+    <string name="gambar" translatable="false">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Keluar</string>
+    <string name="tambah_banmobil">Tambah Ban Mobil</string>
+    <string name="merkBan">Merek Ban</string>
+    <string name="ukuranBan">Ukuran Ban</string>
+    <string name="jenisBan">Jenis Ban</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="data_kosong">Data Kosong</string>
+    <string name="bagikan_template" translatable="false">Jenis Ban : %1$s\n Ukuran Ban : %2$s\n Merk Ban : %3$s</string>
+
+</resources>

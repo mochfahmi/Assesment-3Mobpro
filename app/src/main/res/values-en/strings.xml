@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jual Beli Ban Mobil</string>
+    <string name="error">Failed to load data.. Connection error.</string>
+    <string name="try_again">Try Again</string>
+    <string name="profil">Profile</string>
+    <string name="tutup">Close</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_banmobil">Add Car Tires</string>
+    <string name="merkBan">Tire Brands</string>
+    <string name="ukuranBan">Tire Size</string>
+    <string name="jenisBan">Types of Tires</string>
+    <string name="batal">Cancel</string>
+    <string name="simpan">Save</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="data_kosong">Empty data</string>
+</resources>
